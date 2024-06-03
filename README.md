@@ -1,5 +1,5 @@
 # 👋 2024 Goal 👋
-- 🤗 **Jaehwan Lee Soaking** ✅
+- 🤗 **Jaehwan Lee Soaking into cement** ✅
 - 🌱 **Improving Projects**
 - 🌹 **Code with elegance, not just functionality**
 - 💖 **Stay humble, stay hungry**
