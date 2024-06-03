@@ -1,5 +1,5 @@
 # 👋 2024 Goal 👋
-- 🤗 **이재환 담구기** ✅
+- 🤗 **Jaehwan Lee Soaking** ✅
 - 🌱 **Improving Projects**
 - 🌹 **Code with elegance, not just functionality**
 - 💖 **Stay humble, stay hungry**
