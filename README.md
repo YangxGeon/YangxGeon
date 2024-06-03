@@ -1,5 +1,5 @@
 # 2024 Goal 👋
-- 🤗 ** 이재환 담그기 **
+- 🤗 **이재환 담그기**
 
 # 🛠 Tech Stack 🛠
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
