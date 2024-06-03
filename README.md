@@ -20,5 +20,3 @@
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=Apple&logoColor=white)
 
 <a href="인스타그램 주소" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://twitter.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
