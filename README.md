@@ -1,6 +1,8 @@
 # 👋 2024 Goal 👋
 - 🤗 **이재환 담구기** ✅
 - 🌱 **Improving Projects**
+- 🌹 **Code with elegance, not just functionality**
+- 💖 **Stay humble, stay hungry**
 
 # 🛠 Tech Stack 🛠
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
