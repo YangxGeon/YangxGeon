@@ -1,6 +1,6 @@
-### GitHub 통계
+
 [![YangxGeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangxGeon&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-### 주요 사용 언어
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangxGeon&layout=compact&theme=radical)
 
 
