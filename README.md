@@ -3,7 +3,7 @@
 # 👋 2024 Goal 👋
 - 🤗 **Information Processing Engineer** ✅
 - 💖 **SQLD**
-- 🌱 **TOEIC 800 or higher**
+- 🌱 **TOEIC 800 higher**
 - 🌹 **Carrying out various projects** ✅
 
 # 🛠 Tech Stack 🛠
