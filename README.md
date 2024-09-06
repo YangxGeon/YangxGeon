@@ -2,7 +2,7 @@
 
 # 👋 2024 Goal 👋
 - 🤗 **Information Processing Engineer** ✅
-- - 💖 **SQLD**
+- 💖 **SQLD**
 - 🌱 **TOEIC 800 or higher**
 - 🌹 **Carrying out various projects** ✅
 
