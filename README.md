@@ -3,13 +3,15 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=YangxGeon%20GitHub&fontSize=90&fontColor=00FFFF)
 
 # 👋 2024 Goal 👋
+
 <div align="center">
-  💖 **SQLD** <br>
-  🌱 **TOEIC 800 higher** <br>
-  🌹 **Carrying out various projects** ✅ <br>
-  🤗 **Information Processing Engineer** ✅ <br>
+  <strong>💖 SQLD</strong> <br>
+  <strong>🌱 TOEIC 800 higher</strong> <br>
+  <strong>🌹 Carrying out various projects ✅</strong> <br>
+  <strong>🤗 Information Processing Engineer ✅</strong> <br>
 </div>
 
+<br><br>
 
 # 🛠 Tech Stack 🛠
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
@@ -44,6 +46,8 @@
 <a href="https://www.instagram.com/yangxgeon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 </div>
+
+<br><br>
 
 <div align="center">
 
