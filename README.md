@@ -3,10 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=YangxGeon%20GitHub&fontSize=90&fontColor=00FFFF)
 
 # 👋 2024 Goal 👋
-- 🤗 **Information Processing Engineer** ✅
-- 💖 **SQLD**
-- 🌱 **TOEIC 800 higher**
-- 🌹 **Carrying out various projects** ✅
+💖 **SQLD**
+🌱 **TOEIC 800 higher**
+🌹 **Carrying out various projects** ✅
+🤗 **Information Processing Engineer** ✅
+
 
 # 🛠 Tech Stack 🛠
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
