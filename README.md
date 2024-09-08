@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=YangxGeon%20GitHub&fontSize=90&fontColor=111111)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=YangxGeon%20GitHub&fontSize=90&fontColor=00FFFF)
 
 # 👋 2024 Goal 👋
 - 🤗 **Information Processing Engineer** ✅
