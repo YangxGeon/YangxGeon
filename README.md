@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=YangxGeon%20GitHub&fontSize=90&fontColor=111111)
 
 # 👋 2024 Goal 👋
@@ -38,7 +40,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangxGeon&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://www.instagram.com/yangxgeon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
---- 
+</div>
+
+---
+
+<div align="center">
 
 ### [ 2023 ]
 >2022.12 ~ 2023.02 알고리즘 자동 채점 사이트 'CodeChallenge' 프로젝트   
@@ -48,4 +54,4 @@
 >2024.05 ~ 2024.07 트레이딩 카드 경매 사이트 'CardAuction' 프로젝트   
 >2024.08 ~ 금융 복지 지원 플랫폼 'KnockKnock' 프로젝트
 
-
+</div>
