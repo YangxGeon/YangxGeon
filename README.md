@@ -70,6 +70,11 @@
     <td>캡스톤디자인 프로젝트</td>
   </tr>
   <tr>
+    <td>2024.04 ~ 2024.04</td>
+    <td>Coin Market</td>
+    <td>가상화폐 거래 시스템</td>
+  </tr>
+  <tr>
     <td>2024.05 ~ 2024.07</td>
     <td>CardAuction</td>
     <td>트레이딩 카드 경매 쇼핑몰</td>
