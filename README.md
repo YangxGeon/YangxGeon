@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td>2024.05 ~ 2024.07</td>
-    <td>CardAuction</td>
+    <td>Card Auction</td>
     <td>트레이딩 카드 경매 쇼핑몰</td>
   </tr>
   <tr>
