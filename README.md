@@ -84,11 +84,6 @@
     <td>KnockKnock</td>
     <td>금융 복지 지원 플랫폼</td>
   </tr>
-  <tr>
-    <td>2024.09 ~ </td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
 </div>
