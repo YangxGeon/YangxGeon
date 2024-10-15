@@ -61,15 +61,15 @@
     <th>비고</th>
   </tr>
   <tr>
-    <td>2022.12 ~ 2023.02</td>
-    <td>CodeChallenge</td>
-    <td>알고리즘 문제 풀이 플랫폼</td>
-    <td></td>
+    <td>2024.08 ~ 2024.09</td>
+    <td>KnockKnock</td>
+    <td>금융 복지 지원 플랫폼</td>
+    <td> 🥇 </td>
   </tr>
   <tr>
-    <td>2023.03 ~ 2023.06</td>
-    <td>한대모여</td>
-    <td>캡스톤디자인 프로젝트</td>
+    <td>2024.05 ~ 2024.07</td>
+    <td>Card Auction</td>
+    <td>트레이딩 카드 경매 쇼핑몰</td>
     <td></td>
   </tr>
   <tr>
@@ -79,16 +79,16 @@
     <td></td>
   </tr>
   <tr>
-    <td>2024.05 ~ 2024.07</td>
-    <td>Card Auction</td>
-    <td>트레이딩 카드 경매 쇼핑몰</td>
+    <td>2023.03 ~ 2023.06</td>
+    <td>한대모여</td>
+    <td>캡스톤디자인 프로젝트</td>
     <td></td>
   </tr>
   <tr>
-    <td>2024.08 ~ 2024.09</td>
-    <td>KnockKnock</td>
-    <td>금융 복지 지원 플랫폼</td>
-    <td>🥇</td>
+    <td>2022.12 ~ 2023.02</td>
+    <td>CodeChallenge</td>
+    <td>알고리즘 문제 풀이 플랫폼</td>
+    <td></td>
   </tr>
 </table>
 
