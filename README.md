@@ -8,7 +8,7 @@
   <strong>🌹 Carrying out various projects ✅</strong> <br>
   <strong>🤗 Information Processing Engineer ✅</strong> <br>
   <strong>🌱 TOEIC 800 higher</strong> <br>
-  <strong>💖 SQLD</strong> <br>
+  <strong>💖 SQLD</strong> ✅</strong> <br>
 </div>
 
 <br><br>
