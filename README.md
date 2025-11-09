@@ -7,6 +7,7 @@
 <div align="center">
   <strong>🌹 Big Data Analysis Engineer ⬜</strong> <br>
   <strong>🤗 SQL professional ⬜</strong> <br>
+  <br><br>
 </div>
 
 
@@ -21,6 +22,7 @@
   ![XPLATFORM](https://img.shields.io/badge/XPLATFORM-00694C?style=flat-square&logo=XPLATFORM&logoColor=white) &nbsp;
   ![Nexacro](https://img.shields.io/badge/Nexacro-E60012?style=flat-square&logo=Nexacro&logoColor=white)
 
+  <br><br>
 </div>
 
 # 🎓 Education & 💼 Career
@@ -29,7 +31,7 @@
   <tr>
     <th>기간</th>
     <th>구분</th>
-    <th>내용</th>\
+    <th>내용</th>
   </tr>
   <tr>
     <td>2025 ~ </td>
@@ -64,7 +66,7 @@
     </td>
   </tr>
 </table>
-
+<br><br>
 
 
 # 🚀 Project History 🚀
