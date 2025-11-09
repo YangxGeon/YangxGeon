@@ -5,8 +5,8 @@
 # 👋 2026 Goal 👋
 
 <div align="center">
-  <strong>🌹 Big Data Analysis Engineer ✅</strong> <br>
-  <strong>🤗 SQL professional ✅</strong> <br>
+  <strong>🌹 Big Data Analysis Engineer</strong> <br>
+  <strong>🤗 SQL professional</strong> <br>
 </div>
 
 <br><br>
