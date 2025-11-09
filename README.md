@@ -2,13 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=0,2,2,5&height=300&section=header&text=YangxGeon%20GitHub&fontSize=90&fontColor=00FFFF)
 
-# 👋 2024 Goal 👋
+# 👋 2026 Goal 👋
 
 <div align="center">
-  <strong>🌹 Carrying out various projects ✅</strong> <br>
-  <strong>🤗 Information Processing Engineer ✅</strong> <br>
-  <strong>🌱 TOEIC 800 higher</strong> <br>
-  <strong>💖 SQLD</strong> ✅</strong> <br>
+  <strong>🌹 Big Data Analysis Engineer ✅</strong> <br>
+  <strong>🤗 SQL professional ✅</strong> <br>
 </div>
 
 <br><br>
