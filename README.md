@@ -32,6 +32,41 @@
 
 <div align="center">
 
+# 🎓 Education & 💼 Career
+
+<table>
+  <tr>
+    <th>기간</th>
+    <th>구분</th>
+    <th>내용</th>
+    <th>비고</th>
+  </tr>
+  <tr>
+    <td>2025 ~ </td>
+    <td>직장</td>
+    <td>건강보험심사평가원<br>(Health Insurance Review & Assessment Service)<br>자원운영부</td>
+    <td>💼</td>
+  </tr>
+  <tr>
+    <td>2018 ~ 2024</td>
+    <td>학력</td>
+    <td>단국대학교 죽전캠퍼스<br>컴퓨터공학과 졸업</td>
+    <td>🎓</td>
+  </tr>
+  <tr>
+    <td>2015 ~ 2018</td>
+    <td>학력</td>
+    <td>춘천고등학교<br>졸업</td>
+    <td>🎓</td>
+  </tr>
+</table>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
 # 🚀 Project History 🚀
 
 <table>
