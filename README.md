@@ -29,44 +29,39 @@
   <tr>
     <th>기간</th>
     <th>구분</th>
-    <th>내용</th>
-    <th>비고</th>
+    <th>내용</th>\
   </tr>
   <tr>
     <td>2025 ~ </td>
-    <td style="color:#00694C;">직장 💼</td>
+    <td style="color:#00694C;">💼</td>
     <td>
       건강보험심사평가원<br>
       (Health Insurance Review & Assessment Service)
     </td>
-    <td>💼</td>
   </tr>
   <tr>
     <td>2024</td>
-    <td style="color:#FF4500;">학원 🎓</td>
+    <td style="color:#FF4500;">🎓</td>
     <td>
       신한DS 금융SW아카데미<br>
       (Shinhan DS Financial SW Academy)
     </td>
-    <td>🎓</td>
   </tr>
   <tr>
     <td>2018 ~ 2024</td>
-    <td style="color:#1E90FF;">학력 🎓</td>
+    <td style="color:#1E90FF;">🎓</td>
     <td>
       단국대학교 죽전캠퍼스, 컴퓨터공학과<br>
       (Dankook University, Computer Engineering)
     </td>
-    <td>🎓</td>
   </tr>
   <tr>
     <td>2015 ~ 2018</td>
-    <td style="color:#1E90FF;">학력 🎓</td>
+    <td style="color:#1E90FF;">🎓</td>
     <td>
       춘천고등학교<br>
       (Chuncheon High School)
     </td>
-    <td>🎓</td>
   </tr>
 </table>
 
