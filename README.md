@@ -16,8 +16,8 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![XPLATFORM](https://img.shields.io/badge/XPLATFORM-<색상>?style=flat-square&logo=XPLATFORM&logoColor=white)
-![Nexacro](https://img.shields.io/badge/Nexacro-<색상>?style=flat-square&logo=Nexacro&logoColor=white)
+![XPLATFORM](https://img.shields.io/badge/XPLATFORM-00694C?style=flat-square&logo=XPLATFORM&logoColor=white)
+![Nexacro](https://img.shields.io/badge/Nexacro-E60012?style=flat-square&logo=Nexacro&logoColor=white)
 
 [![YangxGeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangxGeon&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
