@@ -19,11 +19,6 @@
 ![XPLATFORM](https://img.shields.io/badge/XPLATFORM-00694C?style=flat-square&logo=XPLATFORM&logoColor=white)
 ![Nexacro](https://img.shields.io/badge/Nexacro-E60012?style=flat-square&logo=Nexacro&logoColor=white)
 
-[![YangxGeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YangxGeon&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangxGeon&layout=compact&theme=radical)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYangxGeon&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://www.instagram.com/yangxgeon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 </div>
@@ -46,6 +41,12 @@
     <td>직장</td>
     <td>건강보험심사평가원<br>(Health Insurance Review & Assessment Service)<br>자원운영부</td>
     <td>💼</td>
+  </tr>
+  <tr>
+    <td>2024/td>
+    <td>학원</td>
+    <td>신한DS 금융SW아카데미<br>수료</td>
+    <td>🎓</td>
   </tr>
   <tr>
     <td>2018 ~ 2024</td>
