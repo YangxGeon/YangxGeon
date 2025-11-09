@@ -9,19 +9,19 @@
   <strong>🤗 SQL professional ⬜</strong> <br>
 </div>
 
----
+
 
 # 🛠 Tech Stack 🛠
 <div align="center">
+
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) &nbsp;
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) &nbsp;
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white) &nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) &nbsp;
   ![XPLATFORM](https://img.shields.io/badge/XPLATFORM-00694C?style=flat-square&logo=XPLATFORM&logoColor=white) &nbsp;
   ![Nexacro](https://img.shields.io/badge/Nexacro-E60012?style=flat-square&logo=Nexacro&logoColor=white)
-</div>
 
----
+</div>
 
 # 🎓 Education & 💼 Career
 
@@ -35,30 +35,42 @@
   <tr>
     <td>2025 ~ </td>
     <td style="color:#00694C;">직장 💼</td>
-    <td>건강보험심사평가원<br>(Health Insurance Review & Assessment Service)<br>자원운영부</td>
+    <td>
+      건강보험심사평가원<br>
+      (Health Insurance Review & Assessment Service)
+    </td>
     <td>💼</td>
   </tr>
   <tr>
     <td>2024</td>
     <td style="color:#FF4500;">학원 🎓</td>
-    <td>신한DS 금융SW아카데미<br>수료</td>
+    <td>
+      신한DS 금융SW아카데미<br>
+      (Shinhan DS Financial SW Academy)
+    </td>
     <td>🎓</td>
   </tr>
   <tr>
     <td>2018 ~ 2024</td>
     <td style="color:#1E90FF;">학력 🎓</td>
-    <td>단국대학교 죽전캠퍼스<br>컴퓨터공학과 졸업</td>
+    <td>
+      단국대학교 죽전캠퍼스, 컴퓨터공학과<br>
+      (Dankook University, Computer Engineering)
+    </td>
     <td>🎓</td>
   </tr>
   <tr>
     <td>2015 ~ 2018</td>
     <td style="color:#1E90FF;">학력 🎓</td>
-    <td>춘천고등학교<br>졸업</td>
+    <td>
+      춘천고등학교<br>
+      (Chuncheon High School)
+    </td>
     <td>🎓</td>
   </tr>
 </table>
 
----
+
 
 # 🚀 Project History 🚀
 
@@ -97,7 +109,7 @@
     <td>2022.12 ~ 2023.02</td>
     <td>CodeChallenge</td>
     <td>알고리즘 문제 풀이 플랫폼</td>
-    <td>👤</td>
+    <td>👥</td>
   </tr>
 </table>
 
