@@ -6,7 +6,7 @@
 
 <div align="center">
   <strong>🌹 Big Data Analysis Engineer  ⬜</strong> <br>
-  <strong>🤗 SQL professional  ⬜</strong> <br>
+  <strong>🤗 SQL Professional  ⬜</strong> <br>
   <br><br>
 </div>
 
